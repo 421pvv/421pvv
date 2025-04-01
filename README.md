@@ -1,6 +1,4 @@
-# Vishnu Vardhan Putta
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=0078D4&vCenter=true&width=500&lines=Computer+Science+Graduate+Student;Machine+Learning+Enthusiast;Full-Stack+Web+Developer" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:9932CC&height=200&section=header&text=Vishnu%20Vardhan%20Putta&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Graduate%20Student%20|%20ML%20Enthusiast%20|%20Full-Stack%20Developer&descAlignY=55&descSize=20" width="100%" />
 
 <p>
   <a href="https://linkedin.com/in/vishnuvardhanputta"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
