@@ -1,22 +1,17 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:9932CC&height=200&section=header&text=Vishnu%20Vardhan%20Putta&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Graduate%20Student%20|%20ML%20Enthusiast%20|%20Full-Stack%20Developer&descAlignY=55&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:9932CC&height=160&section=header&text=Vishnu%20Vardhan%20Putta&fontSize=36&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Graduate%20Student%20|%20ML%20Enthusiast%20|%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%" />
 
-<p>
-  <a href="https://linkedin.com/in/vishnuvardhanputta"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:vishnuvardhanputta421@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/421pvv"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <img src="https://komarev.com/ghpvc/?username=421pvv&color=0078D4&style=for-the-badge" alt="Profile views" />
-</p>
+<a href="https://linkedin.com/in/vishnuvardhanputta"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:vishnuvardhanputta421@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/421pvv"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<img src="https://komarev.com/ghpvc/?username=421pvv&color=0078D4&style=for-the-badge" alt="Profile views" />
 
 ## 💻 About Me
 
-I'm a **Computer Science Graduate Student** with a passion for web development and exploring machine learning. As a Teaching Assistant for Web Programming and Algorithms courses, I've strengthened my foundation in these areas while helping others learn.
+I'm a **Computer Science Graduate Student** focusing on software development. I'm proficient in Web Development and API design, with experience in full-stack applications. I'm seeking internship opportunities in Software Engineering while exploring machine learning applications.
 
-- 🔭 Currently focusing on **Full-Stack Web Development** and **API Design**
-- 🌱 Exploring **Machine Learning** and its real-world applications
 - 🎓 TA for Web Programming and Algorithms graduate courses
-- 💼 Seeking internship opportunities in Software Engineering roles
-- 🧪 Strong advocate for thorough unit testing and code quality
-- 🧩 Outside of tech: I enjoy solving Rubik's Cubes, portrait photography, and thriller movies
+- 💼 Creating scalable, efficient solutions with clean readable code and extensive unit testing
+- 🧩 Outside tech: Solving Rubik's Cubes, portrait photography, and thriller movies
 
 ## 🛠️ Tech Stack
 
@@ -80,12 +75,3 @@ I'm a **Computer Science Graduate Student** with a passion for web development a
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=421pvv&theme=tokyonight&hide_border=true" width="32%" height="160px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=421pvv&layout=compact&theme=tokyonight&hide_border=true" width="32%" height="160px" />
 </p>
-
-## 🏆 Professional Goals
-
-- 💼 Securing an internship as a Software Engineer or Developer
-- 🚀 Building scalable and efficient web applications
-- 🌐 Developing RESTful APIs with comprehensive documentation
-- 🧠 Applying machine learning to solve real-world problems
-- 💡 Contributing to open-source projects to enhance my skills
-- 🔍 Continuously improving through hands-on experience
