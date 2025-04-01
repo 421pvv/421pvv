@@ -1,58 +1,93 @@
-## Hi there 👋
+# Vishnu Vardhan Putta
 
-My name is **Vishnu Vardhan Putta** and I'm a **Computer Science Graduate Student** focusing on Software Development. I'm proficient in Web Development and API design, having built full-stack applications and developed APIs to enhance functionality. I'm also very strong in Data Structures and Algorithms, having TA'd for both the Web Programming and Algorithms graduate courses.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0078D4&width=500&lines=Computer+Science+Graduate+Student;Machine+Learning+Enthusiast;Full-Stack+Web+Developer" alt="Typing SVG" />
 
-[![Linkedin: Vishnu](https://img.shields.io/badge/-Vishnu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishnuvardhanputta/)](https://www.linkedin.com/in/vishnuvardhanputta/)
-[![GitHub Vishnu](https://img.shields.io/github/followers/421pvv?label=follow&style=social)](https://github.com/421pvv)
+<p>
+  <a href="https://linkedin.com/in/vishnuvardhanputta"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:vishnuvardhanputta421@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/421pvv"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <img src="https://komarev.com/ghpvc/?username=421pvv&color=0078D4&style=for-the-badge" alt="Profile views" />
+</p>
 
-### Tools and Technologies
+## 💻 About Me
 
-- 💻 &nbsp;
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-- 🌐 &nbsp;
-  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-  ![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=)
-  ![Handlebars](https://img.shields.io/badge/Handlebars.js-000000?style=for-the-badge&logo=handlebarsdotjs&logoColor=white)
-  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-  ![RESTful API](https://img.shields.io/badge/RESTful-API-009688?style=for-the-badge)
-- 🛢 &nbsp;
-  ![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-- ☁️ &nbsp;
-  ![Cloudinary](https://img.shields.io/badge/Cloudinary-2C39BD?style=for-the-badge&logo=cloudinary&logoColor=white)
-  ![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
-  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-  ![Jira](https://img.shields.io/static/v1?style=for-the-badge&message=Jira&color=0052CC&logo=Jira&logoColor=FFFFFF&label=)
-  ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
-  ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
-  ![IntelliJ IDEA](https://img.shields.io/static/v1?style=for-the-badge&message=IntelliJ+IDEA&color=000000&logo=IntelliJ+IDEA&logoColor=FFFFFF&label=)
-  ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-  ![Jupyter](https://img.shields.io/static/v1?style=for-the-badge&message=Jupyter&color=F37626&logo=Jupyter&logoColor=FFFFFF&label=)
+I'm a **Computer Science Graduate Student** with a passion for web development and exploring machine learning. As a Teaching Assistant for Web Programming and Algorithms courses, I've strengthened my foundation in these areas while helping others learn.
 
----
+- 🔭 Currently focusing on **Full-Stack Web Development** and **API Design**
+- 🌱 Exploring **Machine Learning** and its real-world applications
+- 🎓 TA for Web Programming and Algorithms graduate courses
+- 💼 Seeking internship opportunities in Software Engineering roles
+- 🧪 Strong advocate for thorough unit testing and code quality
+- 🧩 Outside of tech: I enjoy solving Rubik's Cubes, portrait photography, and thriller movies
 
-- 🎓 I'm currently a **Computer Science Graduate Student**
-- 💼 I'm a **Teaching Assistant** for Web Programming and Algorithms
-- 🌱 I'm currently exploring **machine learning** and its real-world applications
-- 🔍 I'm seeking internship opportunities as a **Software Engineer/Developer, Full-Stack Developer, or Machine Learning Engineer**
-- 💡 I'm passionate about creating **scalable, efficient solutions** and ensuring code quality through **unit testing**
-- 🚀 Skills: **Web Development, API Design, Data Structures & Algorithms, Full-Stack Development**
-- 🎯 I'm looking to take on new challenges and continue growing as a developer
-- 📫 How to reach me: [vishnuvardhanputta421@gmail.com](mailto:vishnuvardhanputta421@gmail.com)
-- 🎲 Hobbies outside tech: **Solving Rubik's Cubes, Portrait Photography, Watching Thriller Movies/Series**
+## 🛠️ Tech Stack
 
-[![Vishnu's github stats](https://github-readme-stats.vercel.app/api?username=421pvv&show_icons=true&hide_border=true&theme=dark)](https://github.com/421pvv)
+<table>
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Web Development</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+      <img src="https://img.shields.io/badge/Handlebars-f0772b?style=flat-square&logo=handlebarsdotjs&logoColor=white" alt="Handlebars.js" />
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+      <img src="https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white" alt="REST API" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Databases</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Tools & Services</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" />
+      <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest" />
+      <img src="https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white" alt="Mapbox" />
+      <img src="https://img.shields.io/badge/Cloudinary-2C39BD?style=flat-square&logo=cloudinary&logoColor=white" alt="Cloudinary" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>IDEs & Editors</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+      <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" alt="PyCharm" />
+      <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white" alt="IntelliJ" />
+      <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white" alt="Eclipse" />
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+    </td>
+  </tr>
+</table>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=421pvv&layout=compact&theme=dark&hide_border=true)](https://github.com/421pvv)
+## 📊 GitHub Stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=421pvv)](https://github.com/421pvv/github-profile-trophy)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=421pvv&show_icons=true&theme=tokyonight&hide_border=true" width="32%" height="160px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=421pvv&theme=tokyonight&hide_border=true" width="32%" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=421pvv&layout=compact&theme=tokyonight&hide_border=true" width="32%" height="160px" />
+</p>
+
+## 🏆 Professional Goals
+
+- 💼 Securing an internship as a Software Engineer or Developer
+- 🚀 Building scalable and efficient web applications
+- 🌐 Developing RESTful APIs with comprehensive documentation
+- 🧠 Applying machine learning to solve real-world problems
+- 💡 Contributing to open-source projects to enhance my skills
+- 🔍 Continuously improving through hands-on experience
