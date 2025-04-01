@@ -14,6 +14,7 @@ I'm a **Computer Science Graduate Student** focusing on software development. I'
 
 ## 🛠️ Tech Stack
 
+<div align="center">
 <table>
   <tr>
     <td><strong>Languages</strong></td>
@@ -66,6 +67,7 @@ I'm a **Computer Science Graduate Student** focusing on software development. I'
     </td>
   </tr>
 </table>
+</div>
 
 ## 📊 GitHub Stats
 
