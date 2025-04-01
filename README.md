@@ -1,9 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:9932CC&height=160&section=header&text=Vishnu%20Vardhan%20Putta&fontSize=36&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Graduate%20Student%20|%20ML%20Enthusiast%20|%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%" />
-
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:9932CC&height=160&section=header&text=Vishnu%20Vardhan%20Putta&fontSize=36&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Graduate%20Student%20|%20ML%20Enthusiast%20|%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%" />
 <a href="https://linkedin.com/in/vishnuvardhanputta"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:vishnuvardhanputta421@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/421pvv"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<img src="https://komarev.com/ghpvc/?username=421pvv&color=0078D4&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=421pvv&color=0078D4&style=for-the-badge" alt="Profile views" /></div>
 
 ## 💻 About Me
 
