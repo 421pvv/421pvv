@@ -69,8 +69,7 @@ I'm a **Computer Science Graduate Student** focusing on software development. I'
 
 ## 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=421pvv&show_icons=true&theme=tokyonight&hide_border=true" width="32%" height="160px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=421pvv&theme=tokyonight&hide_border=true" width="32%" height="160px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=421pvv&layout=compact&theme=tokyonight&hide_border=true" width="32%" height="160px" />
-</p>
+<div align="center"><p>
+  <img src="https://github-readme-stats.vercel.app/api?username=421pvv&show_icons=true&theme=tokyonight&hide_border=true" width="49%" height=160px/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=421pvv&layout=compact&theme=tokyonight&hide_border=true" width="49%" height=160px/>
+</p></div>
